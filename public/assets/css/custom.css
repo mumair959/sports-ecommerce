@@ -1,0 +1,55 @@
+.subscribe-btn{
+    z-index: 999;
+}
+
+.error-text-class{
+    color: red;
+}
+
+.dashboard-menu-header{
+    background-color: #FD6F2D !important;
+    color: #FFFFFF !important;
+}
+
+.dashboard-menu-option{
+    background-color: #212529 !important;
+    color: #FFFFFF !important;
+}
+
+.profile-img{
+    width: 115px;
+    height: 115px;
+}
+
+.user-avatar-50{
+    width: 50px;
+}
+
+.user-avatar-100{
+    width: 100px;
+}
+
+.product-img-listing{
+    height: 115px;
+}
+
+.product-img-grid{
+    height: 170px;
+}
+
+.product-img-elem{
+    height: 170px;
+}
+
+.cart-prod-img{
+    width: 150px;
+    height: 120px;
+}
+
+.remove-bottom-border{
+    border-bottom: none;
+}
+
+.client-feedback{
+    justify-content: center;
+}
